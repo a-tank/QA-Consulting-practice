@@ -1,4 +1,4 @@
-## Challenge: Make program that allows user to enter a number, loop that number, add the squared values and break if squared value equal to or exceeds two hundred
+## Challenge: Make program that allows user to enter a number, loop that number, add the squared values and break if squared value equal to or exceeds two hundred. Time taken 50 minutes.
 
 number1 = int(input("Please enter a whole number: "))
 
